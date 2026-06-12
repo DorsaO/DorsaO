@@ -42,9 +42,3 @@ I am a Computer Science graduate with a strong interest in Security Operations, 
 
 * Linux
 * Windows
-
----
-
-# 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DorsaO\&show_icons=true\&theme=transparent)
