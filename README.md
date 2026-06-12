@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
 # Hi, I'm Dorsa 👋
 
 ### Cybersecurity Enthusiast | SOC Analyst Path | Computer Science Graduate
@@ -44,9 +47,3 @@ I am a Computer Science graduate with a strong interest in Security Operations, 
 # 📈 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DorsaO\&show_icons=true\&theme=transparent)
-
----
-
-# 🌐 Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/dorsa-ordikhani-360a852b3
